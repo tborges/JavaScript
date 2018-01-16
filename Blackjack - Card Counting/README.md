@@ -1,4 +1,8 @@
-# &larr; JavaScript
+# <a href="https://github.com/tborges/JavaScript"> JavaScript</a>
+
+<a href="https://github.com/tborges/JavaScript">&larr; JavaScript</a> / Blackjack - Card Counting
+<br>
+<br>
 # Blackjack - card counting using switch statement javascript
 <small>Card counting is a casino card game strategy used primarily in the blackjack family of casino games to determine whether the next hand is likely to give a probable advantage to the player or to the dealer.
 <b>Card counting allows players to bet more with less risk when the count gives an advantage as well as minimize losses during an unfavorable count.</b></small>

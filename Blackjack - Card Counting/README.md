@@ -1,5 +1,3 @@
-# <a href="https://github.com/tborges/JavaScript"> JavaScript</a>
-
 <a href="https://github.com/tborges/JavaScript">&larr; JavaScript</a> / Blackjack - Card Counting
 <br>
 <br>

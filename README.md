@@ -1,12 +1,8 @@
 # JavaScript
-* Blackjack - card counting using switch statement javascript
-<small>Card counting is a casino card game strategy used primarily in the blackjack family of casino games to determine whether the next hand is likely to give a probable advantage to the player or to the dealer.
-<b>Card counting allows players to bet more with less risk when the count gives an advantage as well as minimize losses during an unfavorable count.</b></small><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Blackjack_board.JPG" width="50%" height="auto">
+###### Why Study JavaScript? JavaScript is one of the 3 languages all web developers (front-end developers) must learn: <br>1. HTML to define the content of web pages. <br>2. CSS to specify the layout of web pages. <br>3. JavaScript to program the behavior of web pages. <br>This tutorial is about JavaScript, and how JavaScript works with HTML and CSS
 <br>
 <br>
-<br>
-<br>
+
 
 
 title | language | image | description

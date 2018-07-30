@@ -2,6 +2,7 @@ var assert = require('chai').assert;
 var add = require('../add.js');
 
 //BEGINNER BASIC LEVEL
+// Describe, It, Assert uses Mocha's BDD style functions.
 describe('Add', function(){
     
     it('should add 5 and return 10', function(){
@@ -14,3 +15,4 @@ describe('Add', function(){
         assert.typeOf(result, 'number'); //TYPEOF 
     })
 })
+// $ npm run test

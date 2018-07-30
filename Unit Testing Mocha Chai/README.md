@@ -27,8 +27,8 @@ Behavior Driven-Development gives you the HOW.
 "Although you can use each individually, you should combine them for best results as they complement each other very nicely."
 </small>
 
-[Unit Test - Basic Code](https://github.com/tborges/JavaScript/blob/master/Unit%20Testing%20Mocha%20Chai/images/basic-code.png)
+![Unit Test - Basic Code](https://github.com/tborges/JavaScript/blob/master/Unit%20Testing%20Mocha%20Chai/images/basic-code.png)
 <br>
 <br>
 <h4>Code output:</h4>
-[Unit Test - Basic Code Output](https://github.com/tborges/JavaScript/blob/master/Unit%20Testing%20Mocha%20Chai/images/Add-unit-test-Two-Tests-Associated-Passed.png)
+![Unit Test - Basic Code Output](https://github.com/tborges/JavaScript/blob/master/Unit%20Testing%20Mocha%20Chai/images/Add-unit-test-Two-Tests-Associated-Passed.png)

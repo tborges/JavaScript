@@ -25,14 +25,24 @@ est-Driven Development gives you the WHEN.
 Behavior Driven-Development gives you the HOW.
 "Although you can use each individually, you should combine them for best results as they complement each other very nicely."
 </small>
+<br>
+<br>
+<br>
+<h4>Code above (Mocha’s BDD style functions)</h4>
 
 ![Unit Test - Basic Code](https://github.com/tborges/JavaScript/blob/master/Unit%20Testing%20Mocha%20Chai/images/basic-code.png)
+<br>
 <br>
 <br>
 <h4>Passed</h4>
 
 ![test](https://github.com/tborges/JavaScript/blob/master/Unit%20Testing%20Mocha%20Chai/images/Add-unit-test-Two-Tests-Associated-Passed.png)
-
+<br>
+<br>
+<br>
 <h4>Failed example</h4>
 
 ![Failed](https://github.com/tborges/JavaScript/blob/master/Unit%20Testing%20Mocha%20Chai/images/first-unit-test-failed.png)
+<br>
+<br>
+<br>

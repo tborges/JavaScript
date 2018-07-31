@@ -18,12 +18,6 @@ when you write and run your tests.
 BDD or Behavior-Driven Development is a set of best 
 practices for writing great tests. BDD can, and should be, 
 used together with TDD and unit testing methods.
-
-<b>Conclusion:</b>  
-Unit Testing gives you the WHAT.
-est-Driven Development gives you the WHEN. 
-Behavior Driven-Development gives you the HOW.
-"Although you can use each individually, you should combine them for best results as they complement each other very nicely."
 </small>
 <br>
 <br>
@@ -46,3 +40,11 @@ Behavior Driven-Development gives you the HOW.
 <br>
 <br>
 <br>
+
+
+<b>Conclusion:</b>  
+Unit Testing gives you the WHAT.<br>
+Test-Driven Development gives you the WHEN. <br>
+Behavior Driven-Development gives you the HOW.<br>
+<br>
+"Although you can use each individually, you should combine them for best results as they complement each other very nicely."

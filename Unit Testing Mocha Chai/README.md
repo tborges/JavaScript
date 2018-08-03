@@ -18,17 +18,21 @@ when you write and run your tests.
 BDD or Behavior-Driven Development is a set of best 
 practices for writing great tests. BDD can, and should be, 
 used together with TDD and unit testing methods.
-Example:<br>
+BDD Example:
+
 <b>Context</b> (is the "starting state” The test is written in plain English)<br>
-* Given the account balance is $100<br>
-* And the car is valid<br>
-* And the machine contains enough money<br>
+⋅⋅⋅Given the account balance is $100<br>
+⋅⋅⋅And the car is valid<br>
+⋅⋅⋅And the machine contains enough money
+
 <b>Event</b> (is the thing that the user does)<br>
-* When the Account Holder requests $20<br>
+⋅⋅⋅When the Account Holder requests $20
+
 <b>Outcomes</b> (are the expected results of what the user does)<br>
-* Then the ATM machine should dispense $20<br>
-* And the account balance should be $80<br>
-* And the card should be returned<br>
+⋅⋅⋅Then the ATM machine should dispense $20<br>
+⋅⋅⋅And the account balance should be $80<br>
+⋅⋅⋅And the card should be returned
+
 </small>
 <br>
 <br>

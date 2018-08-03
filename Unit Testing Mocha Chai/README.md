@@ -12,7 +12,7 @@ function) is tested, isolated from other pieces
 
 <b>Test-Driven Development</b> 
 TDD or Test-Driven Development is a process for 
-when you write and run your tests.</b> 
+when you write and run your tests.</br>
 ⋅⋅⋅<b>First:</b> Hand write a small test before the code<br>
 ⋅⋅⋅<b>Second:</b> Code the test and make the code to pass the test<br>
 ⋅⋅⋅<b>Third:</b> Repeat the process again with another module/part of the software

@@ -13,13 +13,16 @@ function) is tested, isolated from other pieces
 <b>Test-Driven Development</b> 
 TDD or Test-Driven Development is a process for 
 when you write and run your tests.
+⋅⋅⋅<b>First:</b> Hand write a small test before the code<br>
+⋅⋅⋅<b>Second:</b> Code the test and make the code to pass the test<br>
+⋅⋅⋅<b>Third:</b> Repeat the process again with another module/part of the software
 
 <b>Behavior-Driven Development</b>  
 BDD or Behavior-Driven Development is a set of best 
 practices for writing great tests. BDD can, and should be, 
 used together with TDD and unit testing methods.
-BDD Example:
 
+BDD Example:<br>
 <b>Context</b> (is the "starting state” The test is written in plain English)<br>
 ⋅⋅⋅Given the account balance is $100<br>
 ⋅⋅⋅And the car is valid<br>

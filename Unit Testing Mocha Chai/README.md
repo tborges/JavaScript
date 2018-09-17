@@ -40,7 +40,7 @@ BDD Example:<br>
 <br>
 <br>
 <br>
-<h4>Code above (Mocha’s BDD style functions)</h4>
+<h4>Code below (Mocha’s BDD style functions)</h4>
 
 ![Unit Test - Basic Code](https://github.com/tborges/JavaScript/blob/master/Unit%20Testing%20Mocha%20Chai/images/basic-code.png)
 <br>

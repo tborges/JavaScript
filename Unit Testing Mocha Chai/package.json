@@ -1,7 +1,7 @@
 {
   "name": "unit-testing-mocha-chai",
   "version": "1.0.0",
-  "description": "Unit Testing using Mocha and Chai - tutorial",
+  "description": "Unit testing with Mocha and Chai tutorial",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -16,8 +16,5 @@
   "dependencies": {
     "chai": "^4.1.2",
     "mocha": "^10.8.2"
-  },
-  "overrides": {
-    "minimatch": "5.1.6"
   }
 }

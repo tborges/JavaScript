@@ -19,7 +19,7 @@
   },
   "overrides": {
     "diff": "^5.2.2",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.3.2",
     "minimatch": "^5.1.7"
   }
 }
